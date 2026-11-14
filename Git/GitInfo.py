@@ -22,3 +22,8 @@
 # .gitignore : A file that lists patterns for files and directories to be ignored by Git, helping to keep the repository clean and focused on relevant files.
 
 # NOTE : Git doesn't keep the track of empty directories. If you want to keep the empty directory in the repository, you can create a .gitkeep file inside that directory. The .gitkeep file is an empty file that serves as a placeholder, allowing Git to track the otherwise empty directory.
+
+# Branch and Merge : Git allows developers to create branches, which are separate lines of development. Branches enable experimentation and feature development without affecting the main codebase. Merging combines changes from different branches back into a single branch, facilitating collaboration and integration of new features.
+# To create a new git branch, you can use the command `git branch <branch-name>`. To switch to a different branch, use `git checkout <branch-name>`. Merging can be done with `git merge <branch-name>`.
+
+# now i'm gonna merge this in my master brach let's see if this reflects there or not first i have to commit this in this branch, and there are dummy files that i have deleted from here let's see if they are there or not 

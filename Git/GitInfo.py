@@ -10,3 +10,8 @@
 
 # git status : Displays the current status of the working directory and staging area, showing which files have been modified, added, or deleted.
 
+# git add <file> : Adds changes in the specified file(s) to the staging area, preparing them for the next commit.
+
+# git commit -m "commit message" : Records the changes in the staging area to the local repository with a descriptive commit message.
+
+# git log : Shows the commit history of the repository, including commit hashes, authors, dates, and messages.

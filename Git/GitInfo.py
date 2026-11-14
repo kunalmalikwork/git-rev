@@ -20,3 +20,5 @@
 
 # git ignore : Specifies intentionally untracked files to ignore, preventing them from being included in commits.
 # .gitignore : A file that lists patterns for files and directories to be ignored by Git, helping to keep the repository clean and focused on relevant files.
+
+# NOTE : Git doesn't keep the track of empty directories. If you want to keep the empty directory in the repository, you can create a .gitkeep file inside that directory. The .gitkeep file is an empty file that serves as a placeholder, allowing Git to track the otherwise empty directory.

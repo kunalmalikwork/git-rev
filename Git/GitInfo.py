@@ -29,3 +29,5 @@
 # now i'm gonna merge this in my master brach let's see if this reflects there or not first i have to commit this in this branch, and there are dummy files that i have deleted from here let's see if they are there or not 
 
 # to delete branch use : git brnach -d <brach name>
+
+# git stash list : Lists all the stashed changes in the repository, allowing you to view and manage saved work that is temporarily set aside.

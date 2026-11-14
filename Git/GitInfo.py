@@ -30,4 +30,8 @@
 
 # to delete branch use : git brnach -d <brach name>
 
+#Stashing : Git provides a feature called "stash" that allows you to temporarily save changes in your working directory without committing them. This is useful when you need to switch branches or work on something else without losing your current changes. You can use `git stash` to save your changes and `git stash apply` to reapply them later.
+
 # git stash list : Lists all the stashed changes in the repository, allowing you to view and manage saved work that is temporarily set aside.
+
+# git stash pop : Applies the most recent stashed changes and removes them from the stash list, effectively restoring your working directory to the state it was in before the stash was created.

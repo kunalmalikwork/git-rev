@@ -17,3 +17,6 @@
 # git log : Shows the commit history of the repository, including commit hashes, authors, dates, and messages.
 
 # track changes
+
+# git ignore : Specifies intentionally untracked files to ignore, preventing them from being included in commits.
+# .gitignore : A file that lists patterns for files and directories to be ignored by Git, helping to keep the repository clean and focused on relevant files.

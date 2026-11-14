@@ -27,3 +27,5 @@
 # To create a new git branch, you can use the command `git branch <branch-name>`. To switch to a different branch, use `git checkout <branch-name>`. Merging can be done with `git merge <branch-name>`.
 
 # now i'm gonna merge this in my master brach let's see if this reflects there or not first i have to commit this in this branch, and there are dummy files that i have deleted from here let's see if they are there or not 
+
+# to delete branch use : git brnach -d <brach name>

@@ -35,3 +35,5 @@
 # git stash list : Lists all the stashed changes in the repository, allowing you to view and manage saved work that is temporarily set aside.
 
 # git stash pop : Applies the most recent stashed changes and removes them from the stash list, effectively restoring your working directory to the state it was in before the stash was created.
+
+# Now everything is done and i'm gonna tag my commit

@@ -37,3 +37,4 @@
 # git stash pop : Applies the most recent stashed changes and removes them from the stash list, effectively restoring your working directory to the state it was in before the stash was created.
 
 # Now everything is done and i'm gonna tag my commit
+# git tag -a <tag-name> -m "tag message" : Creates an annotated tag with a specified name and message, allowing you to mark specific points in the commit history for reference. 

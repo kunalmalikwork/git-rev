@@ -15,3 +15,5 @@
 # git commit -m "commit message" : Records the changes in the staging area to the local repository with a descriptive commit message.
 
 # git log : Shows the commit history of the repository, including commit hashes, authors, dates, and messages.
+
+# track changes
